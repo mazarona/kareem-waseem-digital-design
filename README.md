@@ -21,4 +21,4 @@
 ![certification1](certificate.png?raw=true "certificate1")
 
 # Top Performer
-![certification2](top-performer-certificate.png?raw=true "certificate2")
+![certification2](top_performer_certificate.png?raw=true "certificate2")
